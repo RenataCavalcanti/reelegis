@@ -1,5 +1,5 @@
 ---
-header_image: "images/logo2.jpg"
-header_headline: "Devo reeleger meu candidato?"
+header_image: "images/lp.jpg"
+header_headline: ""
 header_subheadline: "Plataforma interativa"
 ---
