@@ -11,7 +11,6 @@
 
             {{ range where $sections ".Params.header_menu" "eq" true }}
                  <a class='btn site-menu' data-title-anchor='{{ anchorize .Title }}'>{{ .Title }}</a>
-            <i id='header-arrow' class="fa fa-angle-down"></i>
                  <a class='btn site-menu' href="https://towardsdatascience.com/interactive-election-visualisations-with-altair-85c4c3a306f9">Acesso à plataforma</a>
             {{ end }}
             <i id='header-arrow' class="fa fa-angle-down"></i>
