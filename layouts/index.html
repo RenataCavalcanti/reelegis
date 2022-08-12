@@ -12,6 +12,10 @@
             {{ range where $sections ".Params.header_menu" "eq" true }}
                  <a class='btn site-menu' data-title-anchor='{{ anchorize .Title }}'>{{ .Title }}</a>
             {{ end }}
+            {{ with .Params.header_headline }}
+                 <a class='btn site-menu' href="https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/">Acesso à plataforma</a>
+            {{ end }}
+            <i id='header-arrow' class="fa fa-angle-down"></i>
             <i id='header-arrow' class="fa fa-angle-down"></i>
         </div>
     </div>
