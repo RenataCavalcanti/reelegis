@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-O [*reeLegis*](https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com) é uma plataforma que lhe permite pesquisar sobre quais foram os assuntos mais apresentados na Câmara dos Deputados entre 2019 e 2022, possibilitando, desse modo, conhecer o trabalho do Deputado ou Deputada Federal que você pretende votar no dia 02 de outubro de 2022.
+O [*reeLegis*](https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/) é uma plataforma que lhe permite pesquisar sobre quais foram os assuntos mais apresentados na Câmara dos Deputados entre 2019 e 2022, possibilitando, desse modo, conhecer o trabalho do Deputado ou Deputada Federal que você pretende votar no dia 02 de outubro de 2022.
 
 Você irá utilizar nossa Versão Beta 🐠 . Isso indica que o projeto está em fase de crescimento e ao longo do período eleitoral traremos novas atualizações.
 
