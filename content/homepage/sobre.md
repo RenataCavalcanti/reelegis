@@ -8,7 +8,7 @@ O [*reeLegis*](https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamli
 
 Você irá utilizar nossa Versão Beta 🐠 . Isso indica que o projeto está em fase de crescimento e ao longo do período eleitoral traremos novas atualizações.
 
-Pensamos em três modos, levando em consideração as possibilidades de como você pode votar na urna, pensamos em três modos de você encontrar o/a parlamentar que tem mais afinidade com os assuntos que você considera mais importante. Em nossa [Plataforma Interativa](https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com), você poderá:
+Pensamos em três modos, levando em consideração as possibilidades de como você pode votar na urna, pensamos em três modos de você encontrar o/a parlamentar que tem mais afinidade com os assuntos que você considera mais importante. Em nossa [Plataforma Interativa](https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/), você poderá:
 
 
 1. Escolher o parlamentar de modo individual no seu distrito eleitoral (o estado em que você vota) - voto no parlamentar individual;
