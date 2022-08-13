@@ -4,7 +4,7 @@ weight: 5
 header_menu: true
 ---
 
-Para chegar aos resultados obtidos nesta [Plataforma](https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com), ou seja, a tradução do conteúdo das ementas em áreas temáticas, utilizamos uma técnica de aprendizado de máquina. Através desta metodologia é permitido organizar, compreender e descobrir quais são os temas presentes em um conjunto de documentos, através das palavras nesse contido e assim classificar cada documento no tópico que é mais apropriado.
+Para chegar aos resultados obtidos nesta [Plataforma](https://reelegis-reelegis-plataforma-reelegis-app-vpxy3k.streamlitapp.com/), ou seja, a tradução do conteúdo das ementas em áreas temáticas, utilizamos uma técnica de aprendizado de máquina. Através desta metodologia é permitido organizar, compreender e descobrir quais são os temas presentes em um conjunto de documentos, através das palavras nesse contido e assim classificar cada documento no tópico que é mais apropriado.
 
 Uma forma de compreender melhor essa metodologia seria supondo que você tenha um conjunto de livros que nunca leu (os documentos) e apenas as informações presentes no sumário e no título (as palavras), e com isso deseja organizá-lo na sua estante por categorias (tópicos) que você deseja criar. Ao notar que palavras como “dragão”, “bruxos”, “magia”, “elfos”, “caminhantes brancos” indicam que os livros pertencem a categoria de literatura fantástica, já "cebola", "tomate", "macarrão" e "vinho" formam o grupo de livros sobre culinária, enquanto palavras como “democracia”, “nações”, “políticos” ou “coalizão” enquadram os livros na literatura sobre política.
 
